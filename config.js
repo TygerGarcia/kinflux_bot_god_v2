@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['16362439088', 'kinfux digital', true],
-  ['254110377776', 'kinflux digital', true], 
+  ['27787896221', 'Mamasboy♻️😈', true],
+  ['27787896221', 'Mamasboy♻️😈', true], 
   ['556199740980'] 
 ] //Number of owners
 
-global.mods = ['16362439088','254110377776','556199740980'] 
-global.prems = ['22589747147', '254110377776', '556199740980']
+global.mods = ['27787896221','27787896221','27787896221'] 
+global.prems = ['27787896221', '27787896221', '27787896221']
 global.allowed = ['556199740980', '254110377776', '13374230362']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -51,7 +51,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'kinflux bot god'
 global.premium = 'true'
 global.packname = 'kinflux ┃ᴮᴼᵀ' 
-global.author = 'kinflux digital' 
+global.author = 'MamasBoy🩸😈' 
 global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28\n' 
 global.dygp = 'https://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28'
 global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
